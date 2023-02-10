@@ -7,13 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AB9EC39F2995781800429B32 /* Testassigment_3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9EC39E2995781800429B32 /* Testassigment_3App.swift */; };
-		AB9EC3A12995781800429B32 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9EC3A02995781800429B32 /* ContentView.swift */; };
 		AB9EC3A32995781900429B32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB9EC3A22995781900429B32 /* Assets.xcassets */; };
 		AB9EC3A62995781900429B32 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB9EC3A52995781900429B32 /* Preview Assets.xcassets */; };
 		AB9EC3B02995781900429B32 /* Testassigment_3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9EC3AF2995781900429B32 /* Testassigment_3Tests.swift */; };
 		AB9EC3BA2995781900429B32 /* Testassigment_3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9EC3B92995781900429B32 /* Testassigment_3UITests.swift */; };
 		AB9EC3BC2995781900429B32 /* Testassigment_3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB9EC3BB2995781900429B32 /* Testassigment_3UITestsLaunchTests.swift */; };
+		ABF4B0A72996C4B200A1F301 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF4B0A12996C4B200A1F301 /* Main.swift */; };
+		ABF4B0A82996C4B200A1F301 /* TargetFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF4B0A22996C4B200A1F301 /* TargetFunction.swift */; };
+		ABF4B0A92996C4B200A1F301 /* Assignment_3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF4B0A32996C4B200A1F301 /* Assignment_3App.swift */; };
+		ABF4B0AA2996C4B200A1F301 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF4B0A42996C4B200A1F301 /* ContentView.swift */; };
+		ABF4B0AB2996C4B200A1F301 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF4B0A52996C4B200A1F301 /* DrawingView.swift */; };
+		ABF4B0AC2996C4B200A1F301 /* BoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF4B0A62996C4B200A1F301 /* BoundingBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,8 +39,6 @@
 
 /* Begin PBXFileReference section */
 		AB9EC39B2995781800429B32 /* Testassigment 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Testassigment 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AB9EC39E2995781800429B32 /* Testassigment_3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testassigment_3App.swift; sourceTree = "<group>"; };
-		AB9EC3A02995781800429B32 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AB9EC3A22995781900429B32 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB9EC3A52995781900429B32 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB9EC3AB2995781900429B32 /* Testassigment 3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Testassigment 3Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +46,12 @@
 		AB9EC3B52995781900429B32 /* Testassigment 3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Testassigment 3UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB9EC3B92995781900429B32 /* Testassigment_3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testassigment_3UITests.swift; sourceTree = "<group>"; };
 		AB9EC3BB2995781900429B32 /* Testassigment_3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Testassigment_3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		ABF4B0A12996C4B200A1F301 /* Main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Main.swift; path = "../../Assignment 3/Assignment 3/Main.swift"; sourceTree = "<group>"; };
+		ABF4B0A22996C4B200A1F301 /* TargetFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TargetFunction.swift; path = "../../Assignment 3/Assignment 3/TargetFunction.swift"; sourceTree = "<group>"; };
+		ABF4B0A32996C4B200A1F301 /* Assignment_3App.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Assignment_3App.swift; path = "../../Assignment 3/Assignment 3/Assignment_3App.swift"; sourceTree = "<group>"; };
+		ABF4B0A42996C4B200A1F301 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../../Assignment 3/Assignment 3/ContentView.swift"; sourceTree = "<group>"; };
+		ABF4B0A52996C4B200A1F301 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DrawingView.swift; path = "../../Assignment 3/Assignment 3/DrawingView.swift"; sourceTree = "<group>"; };
+		ABF4B0A62996C4B200A1F301 /* BoundingBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BoundingBox.swift; path = "../../Assignment 3/Assignment 3/BoundingBox.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +102,12 @@
 		AB9EC39D2995781800429B32 /* Testassigment 3 */ = {
 			isa = PBXGroup;
 			children = (
-				AB9EC39E2995781800429B32 /* Testassigment_3App.swift */,
-				AB9EC3A02995781800429B32 /* ContentView.swift */,
+				ABF4B0A32996C4B200A1F301 /* Assignment_3App.swift */,
+				ABF4B0A62996C4B200A1F301 /* BoundingBox.swift */,
+				ABF4B0A42996C4B200A1F301 /* ContentView.swift */,
+				ABF4B0A52996C4B200A1F301 /* DrawingView.swift */,
+				ABF4B0A12996C4B200A1F301 /* Main.swift */,
+				ABF4B0A22996C4B200A1F301 /* TargetFunction.swift */,
 				AB9EC3A22995781900429B32 /* Assets.xcassets */,
 				AB9EC3A42995781900429B32 /* Preview Content */,
 			);
@@ -195,6 +207,7 @@
 				TargetAttributes = {
 					AB9EC39A2995781800429B32 = {
 						CreatedOnToolsVersion = 14.2;
+						LastSwiftMigration = 1420;
 					};
 					AB9EC3AA2995781900429B32 = {
 						CreatedOnToolsVersion = 14.2;
@@ -257,8 +270,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AB9EC3A12995781800429B32 /* ContentView.swift in Sources */,
-				AB9EC39F2995781800429B32 /* Testassigment_3App.swift in Sources */,
+				ABF4B0A92996C4B200A1F301 /* Assignment_3App.swift in Sources */,
+				ABF4B0A82996C4B200A1F301 /* TargetFunction.swift in Sources */,
+				ABF4B0AB2996C4B200A1F301 /* DrawingView.swift in Sources */,
+				ABF4B0AC2996C4B200A1F301 /* BoundingBox.swift in Sources */,
+				ABF4B0AA2996C4B200A1F301 /* ContentView.swift in Sources */,
+				ABF4B0A72996C4B200A1F301 /* Main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +431,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Testassigment 3/Preview Content\"";
@@ -422,8 +440,6 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -432,6 +448,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.TF.Testassigment-3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -442,6 +459,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Testassigment 3/Preview Content\"";
@@ -450,8 +468,6 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
